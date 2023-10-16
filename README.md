@@ -33,7 +33,7 @@ A Basic web application that lets you search the weather for the city and it giv
 - Search history will be saved in local storage.
 
 ## Slideshow
-
+![Screenshot (10).png](<Develop/Screenshot (10).png>)
 
 ## Technologies Use
 <p><a href="https://openweathermap.org/">OpenWeather API</a></p>
